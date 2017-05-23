@@ -11,3 +11,8 @@ The first argument indicates the starting position of the knight. The second arg
 Return an array indicating the shortest path that the knight must travel to get to the end position without landing on one of the forbidden squares. If there is no valid path to the destination return nil.
 
 Note: That in the majority of cases it would be possible to have more then one valid path.
+
+## Solution
+Use a Breadth-First Search which guarantees that the path found is the shortest.  
+
+![Screenshot](images/Board.JPG?raw=true) ![Screenshot](images/Screenshot.JPG?raw=true)  
