@@ -15,4 +15,4 @@ Note: That in the majority of cases it would be possible to have more then one v
 ## Solution
 Use a Breadth-First Search which guarantees that the path found is the shortest.  
 
-![Screenshot](images/Board.JPG?raw=true) ![Screenshot](images/Screenshot.JPG?raw=true)  
+![Screenshot](Images/Board.jpg?raw=true) ![Screenshot](Images/Screenshot.JPG?raw=true)  
